@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>segfault_gentoo_overlay</name>
+		<description>random bits before the rest of gentoo</description>
+		<homepage>https://github.com/segfault/gentoo_overlay</homepage>
+		<owner>
+			<email>segfault+gentoo@hasno.info</email>
+		</owner>
+		<source type="git">https://github.com/segfault/gentoo_overlay.git</source>
+	</repo>
+</repositories>
