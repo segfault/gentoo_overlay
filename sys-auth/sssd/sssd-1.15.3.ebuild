@@ -30,6 +30,7 @@ COMMON_DEP="
 	>=dev-libs/libpcre-8.30
 	>=app-crypt/mit-krb5-1.10.3
 	net-libs/http-parser
+	dev-libs/jansson
 	locator? (
 		>=app-crypt/mit-krb5-1.12.2[${MULTILIB_USEDEP}]
 		>=net-dns/c-ares-1.10.0-r1[${MULTILIB_USEDEP}]
