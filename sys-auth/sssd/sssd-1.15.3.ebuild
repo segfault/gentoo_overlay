@@ -68,6 +68,7 @@ CONFIG_CHECK="~KEYS"
 
 MULTILIB_WRAPPED_HEADERS=(
 	/usr/include/ipa_hbac.h
+	/usr/include/sss_certmap.h
 	/usr/include/sss_idmap.h
 	/usr/include/sss_nss_idmap.h
 	/usr/include/wbclient_sssd.h
