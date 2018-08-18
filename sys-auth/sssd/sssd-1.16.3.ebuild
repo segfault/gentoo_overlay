@@ -29,6 +29,7 @@ COMMON_DEP="
 	>=net-nds/openldap-2.4.30[sasl]
 	>=dev-libs/libpcre-8.30
 	>=app-crypt/mit-krb5-1.10.3
+	app-crypt/p11-kit
 	net-libs/http-parser
 	dev-libs/jansson
 	locator? (
